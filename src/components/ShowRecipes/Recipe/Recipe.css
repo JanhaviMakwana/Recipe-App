@@ -1,0 +1,47 @@
+.Recipe {
+    width: 300px;
+    margin: 5px 6px 5px;  
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+}
+
+.Recipe:hover {
+    transform: scale(1.03);
+}
+
+.Title {
+    font-weight: 700;
+    font-size: 20px;
+    text-align: center;
+}
+
+.Image{
+    width: 298px;
+    height: 300px;
+}
+
+.Image img {
+    width: 100%;
+    height: 100%;
+    border: 1px solid #ccc;
+    padding-bottom: 0;
+    margin: 0;
+}
+
+.Detail{
+    display: flex;
+    flex-flow: row wrap;
+    width: 100%;
+}
+
+.Detail p{
+    margin: 0;
+    padding-left: 5px;
+    font-weight: 500;
+    font-size: 15px;
+    
+}
+
+.Detail .Time{
+    margin-left: 100px;
+}

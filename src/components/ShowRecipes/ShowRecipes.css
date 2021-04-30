@@ -1,0 +1,6 @@
+.Recipes {
+    display: flex;
+    flex-flow: row wrap;
+    padding: 0 46px 0 46px;
+    font-family:Arial, Helvetica, sans-serif;
+}

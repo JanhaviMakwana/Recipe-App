@@ -1,0 +1,15 @@
+.Carousel {
+    background-color: #fff;
+    height: 100%;
+    width: 100%;
+    text-align: center;
+    padding: 10px 0;
+}
+
+.Author-Name{
+    /* background-color: aquamarine; */
+    width: fit-content;
+    padding: 0 50px;
+    margin-left: 50px;
+    font-size: 50px;
+}

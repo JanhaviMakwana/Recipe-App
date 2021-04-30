@@ -1,0 +1,25 @@
+.RecipeCarousel {
+    width: 400px;
+    box-sizing: border-box;
+    background-color: rgb(247, 243, 243);
+    border: 1px solid #ccc;
+    margin: 0 25px 0;
+}
+
+.TitleCarousel {
+    font-weight: 700;
+    font-size: 20px;
+    text-align: center;
+}
+
+.ImageCarousel{
+    width: 398px;
+    height: 350px;
+}
+
+.ImageCarousel img {
+    width: 100%;
+    height: 100%;
+    border: 1px solid #ccc;
+    padding-bottom: 0;
+}
